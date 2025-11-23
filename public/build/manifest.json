@@ -1,0 +1,17 @@
+{
+  "public/img/2pp.png": {
+    "file": "assets/2pp-DCmQI5KI.png",
+    "src": "public/img/2pp.png"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-b3ofd5zZ.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-BZefPx2I.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
