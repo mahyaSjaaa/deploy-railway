@@ -2,7 +2,7 @@
 builder = "nixpacks"
 
 [deploy]
-start = "php artisan serve --host 0.0.0.0 --port $PORT"
+start = "php -S 0.0.0.0:$PORT -t public"
 
 [deploy.hooks]
 postStart = "php artisan migrate --force"
